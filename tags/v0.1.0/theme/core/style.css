@@ -1,0 +1,26 @@
+/**
+* Description: Core theme for Lydia
+*
+* Innehåller kod som ger mer möjligheter för tema.
+* Tema? Ett koncept för stylesheets, bilder, funktioner och template-filer. Meningen med tema är att det ska gå att styla webbplatsen 
+* på flexibelt vis, t ex ändra färger i stylesheeten (tänk Wordpress). Men om vill ändra en hårdkodad del av webbplatsen, t ex footer, så krävs ändring
+* i $data-arrayen. Sådan ändring kan ske via databas men ibland krävs ändring i template-filer.
+*/
+
+/**
+* Structure
+*/
+html{}
+body{
+	background-color:#eee;
+	font: 1em Verdana, Arial, Helvetica, sans-serif;
+}
+
+#header,
+#main,
+#footer {
+	margin:0 auto;
+	width:970px;
+	background-color:#fff;
+	padding: 1em;
+}

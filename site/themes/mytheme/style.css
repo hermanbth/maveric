@@ -1,0 +1,13 @@
+/** 
+ * Description: Sample theme for site which extends the Maveric grid-theme.
+ */
+@import url(../../../themes/grid/style.css);
+
+/*
+html{background-color:#F3EBEF;}
+body{background-color:#FFFFFF;} /* mos: #D0DCE1*
+#outer-wrap-header{background-color:#F3EBEF;border-bottom:none}
+#outer-wrap-footer{background-color:#F3EBEF}
+a{color:#993366}
+#navbar ul.menu li a.selected{background-color:#FFFFFF;border:none;}
+*/

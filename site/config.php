@@ -130,7 +130,7 @@ $ma->config['menus'] = array(
   'my-navbar' => array(
     'home'      => array('label'=>'About Me', 'url'=>'my'),
     'guestbook' => array('label'=>'Guestbook', 'url'=>'my/guestbook'),
-    'blog'      => array('label'=>'My Blog', 'url'=>'my/blog'),
+    'blog'      => array('label'=>'Blog', 'url'=>'my/blog'),
   ),
 );
 
